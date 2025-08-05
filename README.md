@@ -30,5 +30,5 @@ cd todo-list
 
 Open the index.html file in any modern browser.
 
-Live Demo: https://rachanadutta.github.io/todo-list/
+
 
